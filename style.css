@@ -1,0 +1,21 @@
+.footer{
+    bottom:0 ;
+    position:fixed;
+    width:100%;
+    line-height:1;
+    text-align:left;
+    
+}
+
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-family: 'Rubik Bubbles', cursive;
+    font-size:30px;
+}
+
+canvas{
+    border:3px solid white;
+}
